@@ -1,0 +1,101 @@
+body{
+  background-color: #f7f7f7;
+}
+#main{
+  width: 354px;
+  height: 540px;
+  margin: auto;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* border: 1px solid rebeccapurple; */
+  text-align: center;
+}
+#one h1{
+  /* font-weight: 600; */
+  font-size: 25px;
+
+}
+#one p{
+  font-weight: 700;
+  margin-bottom: 0;
+}
+#one span{
+  font-weight:600 ;
+  font-size: 35px;
+}
+#two{
+  margin: auto;
+  display: flex;
+  height: 86px;
+  /* border: 1px solid black; */
+  background-color: #fff;
+  width: 336px;
+  /* text-align: center; */
+  box-shadow: 1px 2px 9px grey;
+}
+#two p{
+  color: bisque;
+  font-weight: bold;
+  font-size: 22px;
+  margin: -14px;
+ 
+}
+#two1{
+  margin-left: 29px;
+}
+#two2{
+  margin-right: 23px;
+}
+#three h2{
+    font-size: 18px;
+}
+#four{
+  text-align: left;
+}
+#four h1{
+  font-size: 16px;
+
+}
+#four input{
+    width: 336px;
+    padding: 7px;
+    /* border-radius: 5px 5px; */
+}
+/* #four[input='text'],four[input='number']{
+    border-radius: 5px;
+
+} */
+button{
+  margin-top: 12px;
+  padding: 7px;
+  width: 355px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: rgb(213, 226, 243);
+  border-radius: 5px 5px;
+
+}
+#list{
+  margin-left: -40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid black;
+  /* box-shadow: 2px 2px 2px 2px gray; */
+}
+*{
+  /* box-sizing: border-box !important; */
+}
+li button{
+  width: max-content;
+  margin-top: 0;
+  border: none;
+  background-color: none;
+}
+#listmain{
+  width: 312px;
+  border-right: 4px solid rgb(112, 220, 112);
+  /* border: 1px solid black; */
+
+}
