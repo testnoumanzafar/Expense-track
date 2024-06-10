@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Expence-track/static/css/main.15df3442.css",
-    "main.js": "/Expence-track/static/js/main.891770c3.js",
-    "static/js/787.40e53bb1.chunk.js": "/Expence-track/static/js/787.40e53bb1.chunk.js",
-    "index.html": "/Expence-track/index.html",
-    "main.15df3442.css.map": "/Expence-track/static/css/main.15df3442.css.map",
-    "main.891770c3.js.map": "/Expence-track/static/js/main.891770c3.js.map",
-    "787.40e53bb1.chunk.js.map": "/Expence-track/static/js/787.40e53bb1.chunk.js.map"
+    "main.css": "/Expence/static/css/main.15df3442.css",
+    "main.js": "/Expence/static/js/main.9be9b3d3.js",
+    "static/js/787.40e53bb1.chunk.js": "/Expence/static/js/787.40e53bb1.chunk.js",
+    "index.html": "/Expence/index.html",
+    "main.15df3442.css.map": "/Expence/static/css/main.15df3442.css.map",
+    "main.9be9b3d3.js.map": "/Expence/static/js/main.9be9b3d3.js.map",
+    "787.40e53bb1.chunk.js.map": "/Expence/static/js/787.40e53bb1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15df3442.css",
-    "static/js/main.891770c3.js"
+    "static/js/main.9be9b3d3.js"
   ]
 }
